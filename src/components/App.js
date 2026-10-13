@@ -168,7 +168,7 @@ const App = () => {
             ))}
             <button className={`step-nav__item ${showPreview ? "is-active" : ""}`} type="button" onClick={() => setShowPreview(true)}><span className="step-nav__number">↗</span><span>Preview</span><span className="step-nav__arrow">›</span></button>
           </nav>
-          <div className="sidebar__foot"><span className="status-dot" /> Autosaves stay on this device</div>
+          <div className="sidebar__foot"><span className="status-dot" /> Saved resumes stay on this device</div>
         </aside>
 
         <section className="editor">
