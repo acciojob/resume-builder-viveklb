@@ -1,0 +1,4 @@
+{
+    "testRepo": "resume-builder-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
